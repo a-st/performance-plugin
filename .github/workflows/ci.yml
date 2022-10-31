@@ -21,7 +21,6 @@ jobs:
         cache: maven
     - name: Set up prerequisites
       run: |
-        pyenv global 3.6
         pip3 install --upgrade pip
         pip3 install bzt --user
     - name: Build with Maven
