@@ -1,6 +1,10 @@
 <small>[<< Back to main page](./)</small>
 # Changelog
 
+## v3.21 (31st of October, 2022)
+- FIX: Bumped dependency versions
+- FIX: Prevent XXE [SECURITY-2394](https://issues.jenkins-ci.org/browse/SECURITY-2394)
+
 ## v3.20 (13th of July, 2021)
 - FIX: compatibility with Jenkins 2.264+ (tables to div) [JENKINS-64990](https://issues.jenkins-ci.org/browse/JENKINS-64990)
 
