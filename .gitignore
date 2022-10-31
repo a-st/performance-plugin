@@ -5,6 +5,8 @@ target
 .idea/
 .classpath
 .project
+.factorypath
+.vscode/
 .settings/
 src/test/resources/*.serialized
 /work/
